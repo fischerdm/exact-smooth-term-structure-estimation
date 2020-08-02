@@ -1,0 +1,10 @@
+#https://cran.r-project.org/web/packages/gitignore/readme/README.html
+
+# History files
+.Rhistory
+
+# Session Data files
+.RData
+
+# RStudio files
+.Rproj.user/
